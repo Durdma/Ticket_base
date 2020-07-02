@@ -1,2 +1,3 @@
 ﻿  Source.cpp
+D:\PROJECTS\2806\2806\Source.cpp(124,12): warning C4018: >: несоответствие типов со знаком и без знака
   2806.vcxproj -> D:\PROJECTS\2806\Debug\2806.exe
